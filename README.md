@@ -1,1 +1,2 @@
-# aws_udacity_project_2
+# Udacity - AWS Data Engineering Nanodegree
+## Project 2: Data Warehouse
